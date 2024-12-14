@@ -1,0 +1,60 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - White Water Rafting</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <!-- Add header, main, and footer here -->
+</body>
+</html>
+<header>
+    <img src="images/Rapids_logo2.jpg" alt="WWR Logo">
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="trips.html">Trips</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<main>
+    <!-- Hero Section -->
+    <div class="hero" style="background-image: url('images/hero.jpg');">
+        <h1>White Water Rafting Co.</h1>
+    </div>
+
+    <!-- Article Section -->
+    <article>
+        <img src="images/deso-2kayaks.jpg" alt="rafting52_600.jpg">
+        <p>Our mission is to provide unforgettable rafting experiences for adventurers of all levels.</p>
+    </article>
+
+    <!-- History Section -->
+    <section>
+        <h2>History</h2>
+        <p>Established in 2005, we have been guiding enthusiasts through breathtaking rapids for nearly two decades.</p>
+    </section>
+
+    <!-- Adventure Section -->
+    <section>
+        <h2>Adventure Awaits You!</h2>
+        <img src="images/rafting64_600.jpg" alt=Rafting Adventure 1">
+        <img src="images/river-narrow.jpg" alt="Rafting Adventure 2">
+        <img src="images/rafting52_600.jpg" alt="Rafting Adventure 3">
+        <img src="images/rafting56_600.jpg" alt="Rafting Adventure 4">
+        <img src="images/rafting32_600.jpg" alt="Rafting Adventure 5">
+    </section>
+</main>
+<footer>
+    <p>&copy; 2024 White Water Rafting Co. | Designed by Stefan Juste</p>
+    <a href="https://facebook.com"><img src="images/BW_Facebook_glyph_svg-64.webp" alt="Facebook"></a>
+    <a href="https://twitter.com"><img src="images/Circled_Twitter_svg-128.webp" alt="Twitter"></a>
+    <a href="https://instagram.com"><img src="images/2018_social_media_popular_app_logo_instagram-128.webp" alt="Instagram"></a>
+</footer>
+
+
+

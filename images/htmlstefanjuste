@@ -1,0 +1,26 @@
+
+    </footer><!DOCTYPE html>
+    <html lang="en-US">
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Stefan Juste | WDD 130</title>
+      </head>
+      <body>
+        <header>
+          <nav>
+            <a href="#">Home</a>
+            <a href="wwr/">Rafting Site</a>
+          </nav>
+        </header>
+        <main>
+          <h1>Stefan Juste | WDD 130</h1>
+          <img src="images/profile.jpg" alt="Profile picture of Stefan Juste" width="200">
+          <p>Hello! My name is Stefan Juste, and I love to work out and swim. I currently live in NJ and work in NY.</p>
+        </main>
+        <footer>
+          <p>&copy; 2024 🌴 Stefan Juste 🌴 NJ, USA</p>
+        </footer>
+      </body>
+    </html>
+    
